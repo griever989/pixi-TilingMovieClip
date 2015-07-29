@@ -1,0 +1,28 @@
+{
+  "name": "pixi-tiling-movie-clip",
+  "version": "0.1.0",
+  "description": "A combination of MovieClip and TilingSprite from pixi.js.",
+  "main": "TilingMovieClip.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/griever989/pixi-TilingMovieClip.git"
+  },
+  "keywords": [
+    "pixi",
+    "pixi.js",
+    "tiling",
+    "webgl",
+    "tiling movieclip",
+    "tiled movieclip",
+    "movieclip"
+  ],
+  "author": "Max Verigin <maxverigin@gmail.com> (http://griever989.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/griever989/pixi-TilingMovieClip/issues"
+  },
+  "homepage": "https://github.com/griever989/pixi-TilingMovieClip#readme",
+  "dependencies": {
+    "pixi.js": "^3.0.7"
+  }
+}
